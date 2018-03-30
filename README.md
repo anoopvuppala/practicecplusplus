@@ -1,2 +1,3 @@
 # practicecplusplus
-practicing programs
+this repository is for the c++ practising programs
+
